@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0px;
     padding: 0px;
     border: 0px;
@@ -17,11 +17,27 @@
   background-size: 40%;
 } */
 
-.header{
+/* .header{
   text-align: center;
   background-color: aqua;
 }
 .box{
 
   background-color:black;
+} */
+.box-1{
+  /* border: 2px solid black; */
+  padding: 0px 10px 20px ;
+  margin: 2px;
+  width: 300px;
+  border-radius: 10px;
+  
+}
+.header{
+  border-radius: 5px;
+  width: 325px;
+  background-image: url('images/background.jpg.png');
+}
+h3{
+  color: black;
 }
